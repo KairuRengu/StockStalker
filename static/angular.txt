@@ -1,1 +1,0 @@
-This folder will be used for your Angular Application until we combine the Django and Angular apps later on.
