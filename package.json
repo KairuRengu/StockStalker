@@ -21,5 +21,9 @@
     "url": "https://github.com/ShawnCramp/StockStalker/issues"
   },
   "homepage": "https://github.com/ShawnCramp/StockStalker",
-  "dependencies": {}
+  "dependencies": {},
+  "engines":{
+	"node" : "0.12.0",
+	"npm": "2.x"
+  }
 }
