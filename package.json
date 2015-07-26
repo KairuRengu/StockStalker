@@ -1,0 +1,25 @@
+{
+  "name": "stockStalker",
+  "version": "1.0.0",
+  "description": "CP 317 group 9 application project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShawnCramp/StockStalker.git"
+  },
+  "keywords": [
+    "cp",
+    "317",
+    "project"
+  ],
+  "author": "Kyle Leng and Shawn Cramp",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/ShawnCramp/StockStalker/issues"
+  },
+  "homepage": "https://github.com/ShawnCramp/StockStalker",
+  "dependencies": {}
+}
